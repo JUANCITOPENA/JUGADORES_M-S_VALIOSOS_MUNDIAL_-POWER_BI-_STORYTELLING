@@ -1,5 +1,7 @@
 # ⚽ Jugadores Más Valiosos Mundial - Power BI & Storytelling
 
+![Portada del Dashboard](portada.png)
+
 ¡Bienvenidos al repositorio de **Jugadores Más Valiosos Mundial**! Este proyecto representa la nueva generación de visualización de datos en Power BI, donde el análisis tradicional evoluciona hacia una experiencia de **Storytelling** inmersiva. 
 
 ## 📖 La Nueva Era del Análisis de Datos: Narrativa e Inteligencia Artificial
